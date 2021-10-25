@@ -1,4 +1,3 @@
-
 Glad to see you here! 
 I am a DevOps Engineer. Doing automation with DevOps tools and techniques with cloud is what I do! ![image](https://user-images.githubusercontent.com/80588413/134218629-dc6492c0-5719-44b3-ba53-64f686064a9d.png)
 
